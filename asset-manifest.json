@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZXCengg/static/css/main.26dbde14.chunk.css",
+    "main.js": "/ZXCengg/static/js/main.02338297.chunk.js",
+    "main.js.map": "/ZXCengg/static/js/main.02338297.chunk.js.map",
+    "runtime-main.js": "/ZXCengg/static/js/runtime-main.7bc08b9a.js",
+    "runtime-main.js.map": "/ZXCengg/static/js/runtime-main.7bc08b9a.js.map",
+    "static/js/2.bd93a448.chunk.js": "/ZXCengg/static/js/2.bd93a448.chunk.js",
+    "static/js/2.bd93a448.chunk.js.map": "/ZXCengg/static/js/2.bd93a448.chunk.js.map",
+    "index.html": "/ZXCengg/index.html",
+    "precache-manifest.6c93637540b12c3a77b0fe5ee80da4d5.js": "/ZXCengg/precache-manifest.6c93637540b12c3a77b0fe5ee80da4d5.js",
+    "service-worker.js": "/ZXCengg/service-worker.js",
+    "static/css/main.26dbde14.chunk.css.map": "/ZXCengg/static/css/main.26dbde14.chunk.css.map",
+    "static/js/2.bd93a448.chunk.js.LICENSE": "/ZXCengg/static/js/2.bd93a448.chunk.js.LICENSE",
+    "static/media/App.css": "/ZXCengg/static/media/brands-people-Ax8IA8GAjVg-unsplash.38b37f9a.jpg",
+    "static/media/logo.svg": "/ZXCengg/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc08b9a.js",
+    "static/js/2.bd93a448.chunk.js",
+    "static/css/main.26dbde14.chunk.css",
+    "static/js/main.02338297.chunk.js"
+  ]
+}
